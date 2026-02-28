@@ -1,0 +1,10 @@
+# Minimal skeleton – most fields loaded from prompts/*.md
+researcher:
+  role: "loaded from prompts/researcher_role.md"
+  goal: "loaded from prompts/researcher_goal.md"
+  backstory: "loaded from prompts/researcher_backstory.md"
+
+reporting_analyst:
+  role: "loaded from prompts/analyst_role.md"
+  goal: "loaded from prompts/analyst_goal.md"
+  backstory: "loaded from prompts/analyst_backstory.md"
