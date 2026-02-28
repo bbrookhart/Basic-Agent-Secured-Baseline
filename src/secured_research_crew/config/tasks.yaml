@@ -1,0 +1,8 @@
+# Minimal skeleton – descriptions loaded from prompts/
+research_task:
+  description: "loaded from prompts/research_task_description.md"
+  expected_output: "Bullet list of 8–12 latest agentic security developments with OWASP ASI mapping"
+
+reporting_task:
+  description: "loaded from prompts/reporting_task_description.md"
+  expected_output: "Full professional Markdown report"
